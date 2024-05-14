@@ -1,4 +1,5 @@
-![logo](https://github.com/ayushagrawal2806/ayushagrawal2806/assets/149095832/a6e4186c-cc85-4948-988a-abcfa8bbb685)
+![logo](https://github.com/ayushagrawal2806/ayushagrawal2806/assets/149095832/d6f77271-3878-43fd-ad9f-3e104de7c82e)
+
 
 <h1 align="center">Hi 👋, I'm Ayush Agrawal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
