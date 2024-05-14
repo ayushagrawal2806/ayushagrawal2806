@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Agrawal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h2>💬 Ask me about:</h2>
+<h2>👨‍💻About Me : </h2>
 
 - 👨‍💻 Pursuing B.Tech in Computer Science at Shambhunath Institute of Engineering and Technology
 - 💡 Passionate about web development, specializing in HTML, CSS, JavaScript, and React JS
