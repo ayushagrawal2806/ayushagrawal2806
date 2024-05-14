@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-agrawal-875279235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-agrawal-875279235/" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.agrawal_1733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.agrawal_1733" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ayush6082/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ayush6082/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Ayush6082/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ayush6082/" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
